@@ -1,0 +1,41 @@
+h1{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+body {
+    background-color: #8E3200;
+}
+img {
+    display: block;
+    margin: auto;
+
+}
+
+p {
+    text-align: left;
+    font-size: 20px;
+    margin-left: 20px;
+    
+}
+
+#name {
+    text-align: center;
+    position: relative;
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: black;
+    font-style: italic;
+    color: goldenrod;
+}
+
+ 
+.sustainable {
+    background-color: bisque;
+    display: block;
+    
+}
+.side {
+    text-align: right;
+}
